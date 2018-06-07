@@ -1,6 +1,6 @@
 # How to Build Grails 3, MongoDB and Vue.js CRUD Web Application
 
-This source code is part of [How to Build Grails 3, MongoDB and Vue.js CRUD Web Application]() tutorial.
+This source code is part of [How to Build Grails 3, MongoDB and Vue.js CRUD Web Application](https://www.djamware.com/post/5b1908c980aca72c1581f73b/how-to-build-grails-3-mongodb-and-vuejs-crud-web-application) tutorial.
 
 To run this locally:
 * Clone this repo
